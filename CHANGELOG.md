@@ -1,7 +1,7 @@
 #  Changelog  
 
 ##  Update 2 (Final Version) - Improved Model & Training  
-### 🔹 **Key Improvements Over Update 1:**  
+###  **Key Improvements Over Update 1:**  
  **Dataset Handling**  
 - Switched from **LabelMe annotations** to **RoboFlow with COCO JSON format**  
 - Improved **preprocessing and data augmentation techniques**  
